@@ -3,7 +3,7 @@
 ![](model_evolution.gif)
 
 
-**In order to run the code you will need to have a GPU that supports cuda!
+**In order to run the code you will need to have a GPU that supports cuda!**
 Cuda installation and setup in visual studio [Guide][2]
 
 
@@ -14,12 +14,12 @@ In order to edit the Demo.cu file in visual studio and have a succesfull run you
 and link SFML [Guide][3]
 
 __Running the Demo:__
-  *Press i in order to Import
-  *Press b in order to Begin the updates
-  *Press f in order to stop
-  *Press in the window the left mouse in order to draw a red line
-  *Press in the window the right mouse in order to draw a green line
-  *Press esc to exit the program
+  1. Press i in order to Import
+  2. Press b in order to Begin the updates
+  3. Press f in order to stop
+  4. Press in the window the left mouse in order to draw a red line
+  5. Press in the window the right mouse in order to draw a green line
+  6 .Press esc to exit the program
 
 __About Data:__
 This folder contains the multiple pre calculated states of the model in order to validate our programs.
