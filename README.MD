@@ -7,13 +7,13 @@
 Cuda installation and setup in visual studio [Guide][2]
 
 
-**About Demo:**
+__About Demo:__
 Concerning this section we use the previously constructed engine in cuda (v3) and the c++ library SFML
 in order to visualize the results and observe the evolution process of the model.
 In order to edit the Demo.cu file in visual studio and have a succesfull run you will have also to download
 and link SFML [Guide][3]
 
-**Running the Demo**
+__Running the Demo__
   *Press i in order to Import
   *Press b in order to Begin the updates
   *Press f in order to stop
@@ -21,7 +21,7 @@ and link SFML [Guide][3]
   *Press in the window the right mouse in order to draw a green line
   *Press esc to exit the program
 
-**About Data:
+__About Data:__
 This folder contains the multiple pre calculated states of the model in order to validate our programs.
 The number declares the number of updates from the initial state <conf-init.bin>.
 
