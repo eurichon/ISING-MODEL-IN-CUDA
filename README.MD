@@ -19,7 +19,7 @@ __Running the Demo:__
   3. Press f in order to stop
   4. Press in the window the left mouse in order to draw a red line
   5. Press in the window the right mouse in order to draw a green line
-  6 .Press esc to exit the program
+  6. Press esc to exit the program
 
 __About Data:__
 This folder contains the multiple pre calculated states of the model in order to validate our programs.
