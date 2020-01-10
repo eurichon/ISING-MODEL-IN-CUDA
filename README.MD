@@ -6,7 +6,6 @@
 **In order to run the code you will need to have a GPU that supports cuda!**
 Cuda installation and setup in visual studio https://www.youtube.com/watch?v=cuCWbztXk4Y
 
-![](model_evolution.gif)
 
 **About Demo:**
 Concerning this section we use the previously constructed engine in cuda (v3) and the c++ library SFML
