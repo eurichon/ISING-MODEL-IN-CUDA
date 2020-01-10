@@ -4,16 +4,16 @@
 
 <pre>
 **In order to run the code you will need to have a GPU that supports cuda!
-Cuda installation and setup in visual studio https://www.youtube.com/watch?v=cuCWbztXk4Y
+Cuda installation and setup in visual studio [Guide][2]
 
 
-**About Demo:
+**About Demo:**
 Concerning this section we use the previously constructed engine in cuda (v3) and the c++ library SFML
 in order to visualize the results and observe the evolution process of the model.
 In order to edit the Demo.cu file in visual studio and have a succesfull run you will have also to download
-and link SFML https://www.sfml-dev.org/tutorials/2.5/start-vc.php
+and link SFML [Guide][3]
 
-**Running the Demo
+**Running the Demo**
   *Press i in order to Import
   *Press b in order to Begin the updates
   *Press f in order to stop
@@ -27,5 +27,8 @@ The number declares the number of updates from the initial state <conf-init.bin>
 
 </pre>
 [1]: https://github.com/eurichon/ISING-MODEL-IN-CUDA/blob/master/Report.pdf
+[2]: https://www.youtube.com/watch?v=cuCWbztXk4Y
+[3]: https://www.sfml-dev.org/tutorials/2.5/start-vc.php
+
 
 For any issue or difficulty running send me an email: eurichon1996@gmail.com , papachri@auth.ece.gr
